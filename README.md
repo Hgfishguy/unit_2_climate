@@ -19,11 +19,11 @@ This unit will cover learning to program in base R. We'll explore data reading a
 
 -  HW_2_sea_level_rise - Assigned: 2/4/2025, Due: 2/13/2025
 
-HW2 repo link: TBD
+HW2 repo link: https://classroom.github.com/a/bezCZO7r
 
 -  HW_3_ice_core_co2 - Assigned: 2/13/2025, Due: 2/20/2025
 
-HW3 repo link: TBD
+HW3 repo link: https://classroom.github.com/a/kPFJ0KfH
 
 ***
 
